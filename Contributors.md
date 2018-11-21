@@ -44,6 +44,7 @@
 - [Bassel Abu Elhija](https://github.com/baselx17)
 - [Kushal KC](https://github.com/kessi9400)
 - [Jayasree AG] (https://github.com/agjay96)
+- [Brenna D] (https://github.com/badimala218)
 - [Erin Vaage](https://github.com/erinraev/)
 - [Berkay Akcakil](https://github.com/Bakcakil)
 - [Sarah Phillips](https://github.com/snphillips)
